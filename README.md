@@ -27,5 +27,12 @@ The system can analyze student information, generate statistical reports, and cr
 - OpenPyXL
 
 ---
+## How to Run
 
+1. Make sure Python 3 is installed.
+2. Run the following command:
+
+```bash
+python Student Data Analysis.py
+```
 
